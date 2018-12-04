@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/diandilamei/ex-pug/issues"
   },
-  "homepage": "https://github.com/diandilamei/ex-pug#readme"
+  "homepage": "https://github.com/diandilamei/ex-pug#readme",
+  "dependencies": {
+    "koa": "^2.6.2",
+    "koa-router": "^7.4.0",
+    "mongoose": "^5.3.14",
+    "pug": "^2.0.3"
+  }
 }
